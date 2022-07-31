@@ -14,7 +14,7 @@ namespace StacksAndQueues
         public Node(int value)
         {
             this.Value = value;
-            
         }
+
     }
 }
